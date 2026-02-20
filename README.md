@@ -24,3 +24,29 @@ The project follows a modular structure and is designed to be maintainable, scal
 ---
 
 ## 📂 Project Structure
+
+project-root/
+│
+├── src/
+│ ├── model/
+│ ├── service/
+│ ├── utils/
+│ └── Main.java
+│
+├── pom.xml (if using Maven)
+└── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+javac Main.java
+
+mvn clean install
