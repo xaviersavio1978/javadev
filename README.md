@@ -4,7 +4,11 @@
 This is a Java-based application developed to demonstrate core Object-Oriented Programming (OOP) principles and clean code architecture.  
 
 The project follows a modular structure and is designed to be maintainable, scalable, and easy to extend.
+<<<<<<< HEAD
 test1
+=======
+
+>>>>>>> 09f463b94d4398dae0aaaa68d6f56d44cf0540bd
 ---
 
 ## 🚀 Features
